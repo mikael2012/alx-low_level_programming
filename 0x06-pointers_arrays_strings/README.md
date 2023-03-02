@@ -1,0 +1,1 @@
+This here is an ALX assignment regarding more pinters and arrays.
