@@ -1,16 +1,16 @@
 #include "main.h"
 #include <string.h>
-
 /**
- * _strcat- function that concatenates two strings.
- * @dest: pointer to destination char
- * @src: pointer to source char
- *
- * Return: concatenated string
+ * _strcmp -  function that compares two strings.
+ * @s1: 1st string.
+ * @s2: 2nd string.
+ * Return: nothing
  */
 
-char *_strcat(char *dest, char *src)
+int _strcmp(char *s1, char *s2)
 {
-	strcat(dest, src);
-	return (dest);
+	int result;
+
+	result = strcmp(s1, s2);
+	return (result);
 }
