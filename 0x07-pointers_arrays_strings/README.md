@@ -1,0 +1,1 @@
+This here is an exerise regarding the 0x07-pointers_arrays_strings lessson
