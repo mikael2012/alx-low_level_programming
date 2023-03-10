@@ -1,3 +1,6 @@
+#include "main.h"
+#include <stdef.h>
+
 /**
  * _strlen - returns the length of a string
  * @s: String to count
